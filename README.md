@@ -18,5 +18,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muratars1an&" alt="muratars1an" /></p>
 
-
-![snake gif](https://github.com/MuratArs1an/MuratArs1an/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuratArs1an/MuratArs1an/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuratArs1an/MuratArs1an/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuratArs1an/MuratArs1an/output/github-contribution-grid-snake.svg">
+</picture>
