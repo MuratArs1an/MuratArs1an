@@ -1,4 +1,4 @@
-
+![Header](https://www.oracle.com/oce/press/assets/CONT6C95347B9ECC40CF8E7272A74FD80BDE/native/rc24-java-logo.gif)
 <h1 align="center">Hi 👋, I'm Murat Arslan</h1>
 <h3 align="center">A passionate backend java developer from Turkey</h3>
 
